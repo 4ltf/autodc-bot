@@ -64,4 +64,4 @@ client.on('messageCreate', async (message) => {
   }
 });
 
-client.login(process.env.TOKEN);
+client.login("MTQ5MzA1MDA0NjUyMDc1ODM1NA.GJn7Fv.VWHJpZSJHGUJXY21M7OaKLkSjmljN-G2QYcDgo");
